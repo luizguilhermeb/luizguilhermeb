@@ -1,3 +1,3 @@
 ### 😃 Hi, I'm Luiz Guilherme! 👋
-- Eu estou estudando **Git e Github**
-- Pretendo estudar **Python**
+- Eu estou estudando **GitAndGithub e Python**
+- Pretendo estudar **HTML/CSS/JS**
