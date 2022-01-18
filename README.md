@@ -1,2 +1,3 @@
 ### 😃 Hi, I'm Luiz Guilherme! 👋
-##### Situação: Estudando Python
+- Eu estou estudando **Git e Github**
+- Pretendo estudar **Python**
