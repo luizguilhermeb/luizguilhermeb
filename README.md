@@ -15,7 +15,7 @@
   <a href="#"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><a/>
 </div>
 
-<h2>Em desenvolvimento</h2>
+<h2>Em andamento</h2>
 
 <div>
   <a href="#"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><a/>
